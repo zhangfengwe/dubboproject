@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.fwzhang</groupId>
+    <artifactId>dubboproject</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>dubboproject_common</module>
+        <module>dubboproject_pojo</module>
+        <module>dubboproject_user_web</module>
+        <module>dubboproject_user_service</module>
+        <module>dubboxproject_user_interface</module>
+    </modules>
+
+    <properties>
+        <java-version>1.8</java-version>
+        <junit-version>4.8.2</junit-version>
+        <org.springframework-version>3.2.4.RELEASE</org.springframework-version>
+        <jackson-mapper-asl-version>1.9.12</jackson-mapper-asl-version>
+        <jackson-core-asl-version>1.9.12</jackson-core-asl-version>
+        <mysql-connector-java-version>5.1.8</mysql-connector-java-version>
+        <org.mybatis-version>3.2.7</org.mybatis-version>
+        <org.mybatis-spring-version>1.2.2</org.mybatis-spring-version>
+        <opensymphony-version>2.4.2</opensymphony-version>
+        <freemarker-version>2.3.9</freemarker-version>
+        <c3p0-version>0.9.1.2</c3p0-version>
+        <commons-collections-version>3.2.1</commons-collections-version>
+        <commons-fileupload-version>1.2.2</commons-fileupload-version>
+        <org.apache.commons-version>3.2</org.apache.commons-version>
+        <commons-codec-version>1.6</commons-codec-version>
+        <dom4j-version>1.6.1</dom4j-version>
+        <javax.servlet-version>1.2</javax.servlet-version>
+        <aspectjweaver-version>1.6.6</aspectjweaver-version>
+        <slf4j-log4j12-version>1.6.6</slf4j-log4j12-version>
+        <log4j-version>1.2.16</log4j-version>
+        <javax.servlet-jsp-version>2.0</javax.servlet-jsp-version>
+        <cglib-version>2.2.2</cglib-version>
+        <slf4j-api-version>1.6.6</slf4j-api-version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>${org.springframework-version}</version>
+        </dependency>
+    </dependencies>
+
+
+</project>
