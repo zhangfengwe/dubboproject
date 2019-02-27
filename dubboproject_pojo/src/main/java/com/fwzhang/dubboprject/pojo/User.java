@@ -15,6 +15,24 @@ public class User implements Serializable {
     private String birthday;
     private String birthDate;
     private String note;
+    private String password;
+    private String lastChangPasswordDate;
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public String getLastChangPasswordDate() {
+        return lastChangPasswordDate;
+    }
+
+    public void setLastChangPasswordDate(String lastChangPasswordDate) {
+        this.lastChangPasswordDate = lastChangPasswordDate;
+    }
 
     public String getNote() {
         return note;
