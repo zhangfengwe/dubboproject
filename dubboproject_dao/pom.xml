@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>dubboproject</artifactId>
+        <groupId>com.fwzhang</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>jar</packaging>
+    <artifactId>dubboproject_dao</artifactId>
+    <dependencies>
+
+        <dependency>
+            <groupId>com.fwzhang</groupId>
+            <artifactId>dubboproject_pojo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!-- mybatis,mysql,连接池 -->
+        <!--
+            配置文件：
+                mybatis配置  插件，属性配置
+                spring整合mybatis配置
+                jdbc.properties
+         -->
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis-spring</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.oracle</groupId>
+            <artifactId>ojdbc6</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>c3p0</groupId>
+            <artifactId>c3p0</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.jolbox</groupId>
+            <artifactId>bonecp-spring</artifactId>
+        </dependency>
+
+    </dependencies>
+
+</project>

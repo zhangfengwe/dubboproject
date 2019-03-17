@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dubboproject_common" />
+        <module name="dubboproject_dao" />
         <module name="dubboproject_pojo" />
         <module name="dubboproject_user_service" />
         <module name="dubboproject_user_web" />

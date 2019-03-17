@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="891691ff-6e40-456a-a7bf-320fc9d51282" name="Default" comment="">
+    <list default="true" id="891691ff-6e40-456a-a7bf-320fc9d51282" name="Default" comment="dubbo配置">
+      <change afterPath="$PROJECT_DIR$/dubboproject_dao/dubboproject_dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubboproject_dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubboproject_user_service/src/main/resources/spring/applicationContext_dubbo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_common/target/dubboproject_common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_common/target/dubboproject_common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_pojo/target/dubboproject_pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_pojo/target/dubboproject_pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_service/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_service/target/dubboproject_user_service.war" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_service/target/dubboproject_user_service.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_service/target/dubboproject_user_service/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_service/target/dubboproject_user_service/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/config/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_dao/src/main/resources/config/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_dao/src/main/resources/spring/applicationContext_mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/spring_mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/spring_transaction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_service/src/main/resources/spring/applicationContext_transaction.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/target/dubboproject_user_web.war" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_web/target/dubboproject_user_web.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/target/dubboproject_user_web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_web/target/dubboproject_user_web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboproject_user_web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubboproject_user_web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboxproject_user_interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboxproject_user_interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboxproject_user_interface/target/dubboxproject_user_interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubboxproject_user_interface/target/dubboxproject_user_interface-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,6 +38,8 @@
     <ignored path="$PROJECT_DIR$/dubboproject_user_web/target/" />
     <ignored path="$PROJECT_DIR$/dubboproject_user_service/target/" />
     <ignored path="$PROJECT_DIR$/dubboxproject_user_interface/target/" />
+    <ignored path=".idea/" />
+    <ignored path="$PROJECT_DIR$/dubboproject_dao/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,45 +64,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/dubboproject_user_service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="263">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dubboproject_pojo/src/main/java/com/fwzhang/dubboprject/pojo/User.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboproject_common/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-              <folding>
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
-                <element signature="e#947#948#0" expanded="true" />
-                <element signature="e#989#990#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext_dubbo.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboproject_user_service/src/main/resources/spring/applicationContext_dubbo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext_transaction.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboproject_user_service/src/main/resources/spring/applicationContext_transaction.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="115" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext_mybatis.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dubboproject_dao/src/main/resources/spring/applicationContext_mybatis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="635">
+              <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboproject_dao/src/main/resources/config/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboproject_pojo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboproject_dao/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -85,8 +150,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>slf4j.version</find>
+      <find>junit</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -105,12 +177,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dubboproject_common/pom.xml" />
         <option value="$PROJECT_DIR$/dubboproject_pojo/pom.xml" />
-        <option value="$PROJECT_DIR$/dubboxproject_user_interface/pom.xml" />
-        <option value="$PROJECT_DIR$/dubboproject_user_service/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/dubboproject_pojo/src/main/java/com/fwzhang/dubboprject/pojo/User.java" />
+        <option value="$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JidesDemo.java" />
+        <option value="$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisDemo.java" />
+        <option value="$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisPoolDemo.java" />
+        <option value="$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/SharedJedisPoolDemo.java" />
+        <option value="$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisJiQunDemo.java" />
+        <option value="$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/generator/mybatis/MybatisGenerator.java" />
+        <option value="$PROJECT_DIR$/dubboproject_common/src/main/resources/mybatis/gerneratorConfig.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_common/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/config/jdbc.properties" />
+        <option value="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/config/log4j.properties" />
+        <option value="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/spring.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/spring_mybatis.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/spring_transaction.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboxproject_user_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_service/src/main/resources/spring/applicationContext_dubbo.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_service/src/main/resources/spring/applicationContext_transaction.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_web/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_user_service/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboproject_dao/src/main/resources/spring/applicationContext_mybatis.xml" />
       </list>
     </option>
   </component>
@@ -139,6 +231,11 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="dubboproject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dubboproject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -160,8 +257,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,27 +265,121 @@
               <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_user_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubboproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubboproject" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboproject_user_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\Github\dubboproject\dubboproject_user_service\src\main\resources\spring" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\Github\dubboproject\dubboproject_dao\src\main\resources" />
       <recent name="D:\project\Github\dubboproject\dubboproject_user_service\src\main" />
       <recent name="D:\project\Github\dubboproject\dubboproject_user_web\src\main" />
     </key>
@@ -207,6 +397,17 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="MybatisGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fwzhang.generator.mybatis.MybatisGenerator" />
+      <module name="dubboproject_common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fwzhang.generator.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -248,6 +449,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisGenerator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\zhangfengwei\AppData\Roaming\Subversion</configuration>
@@ -261,59 +467,261 @@
       <updated>1551167894953</updated>
       <workItem from="1551167899165" duration="4250000" />
       <workItem from="1551185227138" duration="991000" />
-      <workItem from="1551266532981" duration="2765000" />
+      <workItem from="1551266532981" duration="4021000" />
+      <workItem from="1552392687775" duration="1353000" />
+      <workItem from="1552437997175" duration="7801000" />
+      <workItem from="1552476427841" duration="744000" />
+      <workItem from="1552529333513" duration="4971000" />
+      <workItem from="1552550942637" duration="1693000" />
+      <workItem from="1552632363317" duration="6195000" />
+      <workItem from="1552789373125" duration="17043000" />
     </task>
+    <task id="LOCAL-00001" summary="Git提交至本地仓库">
+      <created>1551269461598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551269461598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Git提交至本地仓库">
+      <created>1551270090973</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551270090973</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Git提交至本地仓库">
+      <created>1552393393364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552393393364</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Jedis相关操作">
+      <created>1552458842102</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552458842103</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pom,web配置">
+      <created>1552552419686</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552552419686</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Mybatis逆向工程">
+      <created>1552639105202</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552639105202</updated>
+    </task>
+    <task id="LOCAL-00007" summary="spring,mybatis,日志配置">
+      <created>1552800183861</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552800183861</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8006000" />
+    <option name="totallyTimeSpent" value="49062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32978722" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.16976556" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28672567" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19320938" />
-      <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" weight="0.32983023" />
-      <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3280142" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32978722" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28368795" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21584478" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32920355" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Git提交至本地仓库" />
+    <MESSAGE value="Jedis相关操作" />
+    <MESSAGE value="pom,web配置" />
+    <MESSAGE value="Mybatis逆向工程" />
+    <MESSAGE value="spring,mybatis,日志配置" />
+    <MESSAGE value="dubbo配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="dubbo配置" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/SharedJedisPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisJiQunDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboxproject_user_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_pojo/src/main/java/com/fwzhang/dubboprject/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/SharedJedisPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisJiQunDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_pojo/src/main/java/com/fwzhang/dubboprject/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_pojo/src/main/java/com/fwzhang/dubboprject/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1156">
@@ -328,17 +736,175 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubboxproject_user_interface/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubboproject_common/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="179" column="19" selection-start-line="179" selection-start-column="9" selection-end-line="179" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/SharedJedisPoolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/common/jedis/JedisJiQunDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO8E8AA553/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/dubboprject/mapper/BiztxlogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/resources/mapper/BiztxlogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/java/com/fwzhang/generator/mybatis/MybatisGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/src/main/resources/mybatis/gerneratorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/src/main/resources/config/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/src/main/resources/config/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="91" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.3.RELEASE/spring-webmvc-4.1.3.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.3.RELEASE/spring-beans-4.1.3.RELEASE.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.3.RELEASE/spring-beans-4.1.3.RELEASE.jar!/org/springframework/beans/factory/config/PreferencesPlaceholderConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/src/main/resources/mybatis/mybatis_config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_pojo/src/main/java/com/fwzhang/dubboprject/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/spring_mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboxproject_user_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1672">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -349,55 +915,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dubboproject_dao/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboproject_user_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dubboproject_common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="45">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubboproject_pojo/src/main/java/com/fwzhang/dubboprject/pojo/User.java">
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_service/src/main/resources/spring/applicationContext_dubbo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_service/src/main/resources/spring/applicationContext_transaction.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="115" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_dao/src/main/resources/config/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_user_web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboproject_dao/src/main/resources/spring/applicationContext_mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -420,7 +983,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Spring (dubboproject_user_web)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -456,7 +1019,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dubboxproject_user_interface</last-edited>
+          <last-edited>Spring|dubboproject_dao</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -480,7 +1043,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <last-edited>Maven: redis.clients:jedis:2.9.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
